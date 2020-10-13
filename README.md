@@ -1,5 +1,6 @@
-### Hi there 👋
+### 👋Welcome to MinhVinh's profile👋
 ## Introduction:
+- 📫 My name is : Minh Vinh
 - 🔭 I’m currently working on AICAMP
 - 🌱 I’m currently learning ML and DL
 - 👯 I’m looking to collaborate on DL
